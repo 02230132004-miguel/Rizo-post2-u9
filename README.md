@@ -1,8 +1,5 @@
 # Rizo-post2-u9
 # ProductListScreen Testing
-## Unidad 9 – Testing y Aseguramiento de Calidad en Móvil
-### Post-Contenido 2
-
 ---
 
 ## Descripción del Proyecto
