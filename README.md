@@ -69,7 +69,6 @@ TESTS
 
 ![Loading](evidencias/test2.png)
 
-![Loading](evidencias/test3.png)
 
 LOADING
 
