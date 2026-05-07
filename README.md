@@ -64,13 +64,20 @@ test/
 
 ## Capturas
 
+LOADING
+
 ![Loading](evidencias/loading.png)
+
+SUCCESS
 
 ![Success](evidencias/success.png)
 
-![Error](evidencias/error.png)
+GOLDENS
 
-![Golden](evidencias/golden.png)
+![Error](evidencias/golden1.png)
+
+![Error](evidencias/golden2.png)
+
 
 ## Conclusión
 Esta actividad me permitió profundizar en la importancia del testing automatizado. El uso de Golden Tests es especialmente útil para mantener la consistencia visual, mientras que los Widget Tests aseguran que la lógica del usuario final funcione bajo cualquier circunstancia.
