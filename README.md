@@ -80,9 +80,9 @@ SUCCESS
 
 GOLDENS
 
-![Error](evidencias/golden1.png)
+![Error](evidencias/golden11.png)
 
-![Error](evidencias/golden2.png)
+![Error](evidencias/golden22.png)
 
 
 ## Conclusión
